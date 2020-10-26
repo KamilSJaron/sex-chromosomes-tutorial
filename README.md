@@ -29,3 +29,10 @@ be removed are:
 * appnope=0.1.0
 * libgfortran=3.0.1
 * libcxx=4.0.1
+
+
+## Data source and licence
+
+The data are distributed under CC-BY licence, the original source:
+
+Vicoso B, Bachtrog D (2015) Numerous Transitions of Sex Chromosomes in Diptera. PLoS Biol 13(4): e1002078. https://doi.org/10.1371/journal.pbio.1002078
